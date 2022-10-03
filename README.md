@@ -25,7 +25,7 @@ Run the following command to run startup migrations.
 
 ```js
 adonis migration:run
-`
+```
 
 Projeto backend de cadastro de consultas em uma clínica, com todo o banco de dados montado, possibilidade de marcação, listagem, edição e exclusão de consultas.
 Projeto baseado em Javascript juntamente do framework Adonis JS.
